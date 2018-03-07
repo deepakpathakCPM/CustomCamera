@@ -1,4 +1,4 @@
-# CustomCamerag
+# CustomCamera
 
 1 ) Code for using the camera : 
               
